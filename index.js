@@ -1,1 +1,1 @@
-console.log("nooo");
+console.warn("nooo");
