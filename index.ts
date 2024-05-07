@@ -1,2 +1,1 @@
-clg;
-dummy;
+console.log("dummy");
